@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ztyoung.me</id>
     <title>浅尝记</title>
-    <updated>2021-04-20T04:24:17.141Z</updated>
+    <updated>2021-04-20T07:06:29.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ztyoung.me"/>
     <link rel="self" href="https://ztyoung.me/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ztyoung.me/favicon.ico</icon>
     <rights>All rights reserved 2021, 浅尝记</rights>
     <entry>
-        <title type="html"><![CDATA[hive 恢复drop table 数据]]></title>
+        <title type="html"><![CDATA[Hive 恢复 drop table 数据]]></title>
         <id>https://ztyoung.me/post/hive-recover/</id>
         <link href="https://ztyoung.me/post/hive-recover/">
         </link>
